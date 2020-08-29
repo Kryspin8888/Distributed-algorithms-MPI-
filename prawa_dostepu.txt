@@ -1,0 +1,6 @@
+razem
+-rw-r--r-- 1.txt
+-rw-r--r-- 2.txt
+-rw-r--r-- 3.txt
+-rw-r--r-- 4.txt
+-rw-r--r-- 5.txt
